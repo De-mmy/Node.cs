@@ -1,6 +1,5 @@
 using System;
-using 
-Manos.Http;
+using Manos.Http;
 using Manos.IO;
 using node.common;
 using System.Diagnostics;
